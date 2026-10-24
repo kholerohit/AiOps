@@ -3,3 +3,5 @@ print("Testing in progress")
 
 
 print("This is a test script for AiOps Project")
+
+print("This script is used to test the functionalities of AiOps Project")
